@@ -1,4 +1,4 @@
-# 🚚 Food Ordering Web App (MERN Stack)
+# 🍅 Tomato Realtime Food Delivery Platform
 
 ## ✨ Table of Contents
 - [Introduction](#introduction)
@@ -12,7 +12,12 @@
 - [Contact](#contact)
 
 ## 📊 Introduction
-This is a full-stack food ordering web application built using the MERN stack (MongoDB, Express, React, Node.js). The application consists of a customer-facing app for ordering food and an admin app for managing orders, menu items, and more.
+
+Tomato Realtime Food Delivery Platform is a full-stack MERN application developed to streamline online food ordering and delivery management.
+
+The platform provides a seamless experience for customers to browse food items, place orders, make secure online payments, and track orders in real time. It also includes an advanced admin dashboard for monitoring sales performance and managing customer orders efficiently.
+
+The application was enhanced with custom features such as Real-Time Order Tracking using Socket.io and an Admin Analytics Dashboard for business insights.
 
 ## 🚀 Features
 - User authentication and authorization
@@ -52,8 +57,8 @@ Make sure you have Node.js (v20+ recommended) and npm installed.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/DulanjaliSenarathna/mern-food-delivery-app.git
-cd mern-food-delivery-app
+git clone https://github.com/Aartigarg446/Tomato-Realtime-Food-Delivery-App.git
+cd Tomato-Realtime-Food-Delivery-App
 ```
 
 ## Backend Setup
@@ -123,12 +128,29 @@ npm run dev
 ```
 
 ## Usage
-Access the customer-facing app at http://localhost:5173.
-Access the admin app at http://localhost:5174.
-Register as a new user or log in with existing credentials.
-Browse the menu, add items to the cart, and place an order.
-Pay using dummy visa card
-Use the admin panel to manage orders, menu items.
+## Usage
+
+### Customer Application
+- Register and login using JWT Authentication
+- Browse food items by category
+- Add products to cart and place orders
+- Complete payments securely using Stripe Checkout
+- Track order status in real-time
+
+### Admin Panel
+- Add, update and manage food items
+- Monitor all customer orders
+- Update order status (Food Processing → Out for Delivery → Delivered)
+- View business analytics including:
+  - Total Revenue
+  - Total Orders
+  - Delivered Orders
+  - Top Selling Food Item
+
+### Real-Time Features
+- Instant order status synchronization using Socket.io
+- Customers receive live order updates without refreshing the page
+- Admin changes are reflected immediately in the customer dashboard
 
 ## 📸 Screenshots
 # 🏠 Home : 
