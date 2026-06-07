@@ -4,7 +4,6 @@
 
 * [Introduction](#-introduction)
 * [Features](#-features)
-* [Key Highlights](#-key-highlights)
 * [Technologies Used](#️-technologies-used)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -20,26 +19,25 @@ Tomato Realtime Food Delivery Platform is a full-stack MERN application develope
 
 The platform provides a seamless experience for customers to browse food items, place orders, make secure online payments, and track orders in real time. It also includes an advanced admin dashboard for monitoring sales performance and managing customer orders efficiently.
 
-The application was enhanced with custom features such as Real-Time Order Tracking using Socket.io and an Admin Analytics Dashboard for business insights.
+The application was designed and enhanced with secure payment processing, real-time order tracking using Socket.io, and an analytics dashboard for monitoring business performance.
 
-## 🚀 Features
-- User authentication and authorization
-- Browse food items
-- Add items to the cart and place orders
-- Stripe Payment Integration: Secure and reliable payment processing using Stripe.
-- Order tracking
-- Admin panel to manage menu items, orders
+## 🚀 Custom Features Added
 
-- 📊 Admin Analytics Dashboard
-- Track Total Revenue
-- Monitor Total Orders
-- View Delivered Orders
-- Identify Top Selling Food Item
+### 📊 Analytics Dashboard
+- Total Revenue Tracking
+- Total Orders Monitoring
+- Delivered Orders Statistics
+- Top Selling Food Analysis
 
-⚡ Real-Time Order Tracking (Socket.io)
-- Instant order status updates
-- Live synchronization between Admin Panel and Customer App
-- No page refresh required for status changes
+### ⚡ Real-Time Order Tracking
+- Socket.io based live communication
+- Instant status updates without page refresh
+- Synchronization between customer and admin applications
+
+### 💳 Secure Payments
+- Stripe Checkout Integration
+- Payment Verification Workflow
+- Secure Transaction Processing
 
 ## 🛠️ Technologies Used
 - **Frontend:** React.js, React Context API, React Router
@@ -176,7 +174,16 @@ npm run dev
 ![Capture8](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/c85e4c11-7ebf-4e45-8678-4000abde835d)
 
 ## 📜 API Documentation
-The API endpoints for the backend can be documented using tools like Postman or Swagger. Include endpoints for user authentication, menu items, orders, and more.
+The backend exposes REST APIs for:
+
+- User Authentication
+- Cart Management
+- Food Management
+- Order Processing
+- Payment Verification
+- Analytics Dashboard
+
+API testing was performed using Postman.
 
 ## 👨‍💻 Developer
 
@@ -196,10 +203,10 @@ Final Year B.Tech Student | MERN Stack Developer
 
 ### Future Enhancements
 
-* AI-based Food Recommendation System
-* Push Notifications for Order Updates
-* Progressive Web App (PWA) Support
-* Advanced Sales Analytics and Reports
+- Push Notifications for Live Order Updates
+- Advanced Revenue Analytics Dashboard
+- Customer Review & Rating System
+- Food Recommendation Engine
 
 ## 📫 Contact
 
