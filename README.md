@@ -22,6 +22,17 @@ This is a full-stack food ordering web application built using the MERN stack (M
 - Order tracking
 - Admin panel to manage menu items, orders
 
+- 📊 Admin Analytics Dashboard
+- Track Total Revenue
+- Monitor Total Orders
+- View Delivered Orders
+- Identify Top Selling Food Item
+
+⚡ Real-Time Order Tracking (Socket.io)
+- Instant order status updates
+- Live synchronization between Admin Panel and Customer App
+- No page refresh required for status changes
+
 ## 🛠️ Technologies Used
 - **Frontend:** React.js, React Context API, React Router
 - **Backend:** Node.js, Express.js
@@ -147,13 +158,18 @@ The API endpoints for the backend can be documented using tools like Postman or 
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code style and include relevant tests.
 
-👨‍💻 Contributors
+## 👨‍💻 Developer
 
-[Dulanjali Senarathna](https://github.com/DulanjaliSenarathna)
- — Project Owner
+[Aarti Garg](https://github.com/Aartigarg446)
 
-[prem2621](https://github.com/prem2621)
- — Bug fixes, secure env handling, image display improvement
+### Contributions
+- MERN Stack Food Ordering Application
+- Stripe Payment Gateway Integration
+- JWT Authentication & Authorization
+- Admin Analytics Dashboard
+- Real-time Order Tracking using Socket.io
+- Order Management System
+- Responsive User Interface
 
 ## 📫 Contact
 For any questions or suggestions, feel free to contact me.
