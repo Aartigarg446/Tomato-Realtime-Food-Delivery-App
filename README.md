@@ -1,15 +1,18 @@
 # 🍅 Tomato Realtime Food Delivery Platform
 
 ## ✨ Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [Contact](#contact)
+
+* [Introduction](#-introduction)
+* [Features](#-features)
+* [Key Highlights](#-key-highlights)
+* [Technologies Used](#️-technologies-used)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Screenshots](#-screenshots)
+* [API Documentation](#-api-documentation)
+* [Developer](#-developer)
+* [Contact](#-contact)
+
 
 ## 📊 Introduction
 
@@ -162,8 +165,7 @@ npm run dev
 ![Capture2](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/22fc6a58-b713-4ab7-babb-cff5844e7c55)
 # 🍱 Menu Food :
 ![Capture3](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/0f7fe1ab-8c29-4fa2-bdb2-7212994cdf80)
-# ℹ️ App Download : 
-![Capture4](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/f41881c6-e148-4215-9953-458bbe602007)
+
 # 🍱 Menu Food :
 ![Capture5](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/34e366fa-8ee5-4f77-a5e0-d5d4ea294672)
 # 🛒 Cart : 
@@ -176,29 +178,37 @@ npm run dev
 ## 📜 API Documentation
 The API endpoints for the backend can be documented using tools like Postman or Swagger. Include endpoints for user authentication, menu items, orders, and more.
 
-## 🤝 Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code style and include relevant tests.
-
 ## 👨‍💻 Developer
 
-[Aarti Garg](https://github.com/Aartigarg446)
+**Aarti Garg**
 
-### Contributions
-- MERN Stack Food Ordering Application
-- Stripe Payment Gateway Integration
-- JWT Authentication & Authorization
-- Admin Analytics Dashboard
-- Real-time Order Tracking using Socket.io
-- Order Management System
-- Responsive User Interface
+Final Year B.Tech Student | MERN Stack Developer
+
+### Key Contributions
+
+* Developed a full-stack Food Ordering Web Application using MongoDB, Express.js, React.js and Node.js
+* Implemented secure JWT-based Authentication and Authorization
+* Integrated Stripe Payment Gateway for online payments
+* Built an Admin Analytics Dashboard for monitoring revenue, orders and sales performance
+* Added Real-Time Order Tracking using Socket.io for instant status synchronization
+* Designed a responsive and user-friendly interface for customers and administrators
+* Developed complete Order Management and Food Inventory Management modules
+
+### Future Enhancements
+
+* AI-based Food Recommendation System
+* Push Notifications for Order Updates
+* Progressive Web App (PWA) Support
+* Advanced Sales Analytics and Reports
 
 ## 📫 Contact
-For any questions or suggestions, feel free to contact me.
 
-Happy coding!
+**Developer:** Aarti Garg
 
-Feel free to customize this template according to your specific project details and requirements.
+**GitHub:** https://github.com/Aartigarg446
 
+**Email:** [aartigarg488@gmail.com](mailto:aartigarg488@gmail.com)
 
+---
 
-
+If you found this project useful, consider giving it a ⭐ on GitHub.
