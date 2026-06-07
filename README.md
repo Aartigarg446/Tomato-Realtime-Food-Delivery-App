@@ -4,7 +4,7 @@
 
 * [Introduction](#-introduction)
 * [Features](#-features)
-* [Custom Features Added](#-Custom Features Added)
+* [Custom Features Added](#-custom-features-added)
 * [Technologies Used](#️-technologies-used)
 * [Installation](#installation)
 * [Usage](#usage)
