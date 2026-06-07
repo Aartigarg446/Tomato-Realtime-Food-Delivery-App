@@ -128,7 +128,6 @@ npm run dev
 ```
 
 ## Usage
-## Usage
 
 ### Customer Application
 - Register and login using JWT Authentication
